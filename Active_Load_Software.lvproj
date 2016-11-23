@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Channel_Enable.vi" Type="VI" URL="../Channel_Enable.vi"/>
+		<Item Name="CurrentCorrection.vi" Type="VI" URL="../CurrentCorrection.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Send_UART_msg.vi" Type="VI" URL="../Send_UART_msg.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
